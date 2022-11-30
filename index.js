@@ -1,6 +1,6 @@
 class calcController {
     constructor() {
-        this._audio = new Audio('./assets/audio/Power-Rangers.mp3');
+        this._audio = new Audio('./assets/audio/cute_notification.mp3');
         this._locale = 'pt-BR';
         this._displayCalcEl = document.querySelector("#display");
         this._dateEl = document.querySelector("#data");
